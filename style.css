@@ -1,0 +1,15 @@
+th {
+    text-align: left;
+    width: 33%;
+}
+#teste {
+    width: 100%;
+    height: 100%;
+    justify-content: start;
+}
+.tabela tdoby tr:nth-child(even) {
+    background-color: #FFF;
+} 
+.tabela tbody tr:nth-child(odd) {
+    background-color: #c3c3c3;
+}
